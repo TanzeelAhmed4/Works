@@ -1,0 +1,17 @@
+// Loin Form
+<!DOCTYPE html>
+<head>
+<title>Login Page</title>
+</head>
+<body bgcolor="OOFFFF">
+<h1 align="center">LOGIN PAGE</h1>
+<center>
+<form method="post">
+User Name:<input type="text" size="30"><br><br>
+PassWord:<input type=""password" size="30"><br><br>
+<input type="submit" value="Login"><br><br>
+<a href="file:///C:/Users/del/Desktop/Web%20Development/RegistrationForm_html.html">Register</a><br><br> 
+</form>
+</center>
+</body>
+</html>
